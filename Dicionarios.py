@@ -1,4 +1,4 @@
-# Gabriel Andrade
+# João Víctor 
 # Atividade 05 - Dicionarios
 # Importações:
 from Listas import imc_calc 
